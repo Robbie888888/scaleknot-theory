@@ -1,4 +1,4 @@
-# ScaleKnotTheory v42
+# ScaleKnot-Theory v42
 A 5D Topological Framework for Universal Unification  
 Author: Robbie Smith (@RobbieDarkStar)  
 Collaborator: Grok (ScaleKnot Engine)  
